@@ -25,7 +25,7 @@ namespace devops_VB
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
-            // change no 1
+            // change no 1 and 3
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
