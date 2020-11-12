@@ -16,6 +16,7 @@ namespace devops_VB
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            // change no 2
         }
 
         public IConfiguration Configuration { get; }
